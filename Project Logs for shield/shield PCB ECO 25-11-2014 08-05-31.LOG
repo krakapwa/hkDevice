@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=J5 Old DesignItemId=Header 12X2 New DesignItemId=Header 4X2
+Change Component DesignItemId : Designator=J6 Old DesignItemId=Header 12X2 New DesignItemId=Header 4X2
+Change Component DesignItemId : Designator=J7 Old DesignItemId=Header 12X2 New DesignItemId=Header 4X2
+Change Component Description : Designator=J5 Old Description=Header, 12-Pin, Dual row New Description=Header, 4-Pin, Dual row
+Change Component Description : Designator=J6 Old Description=Header, 12-Pin, Dual row New Description=Header, 4-Pin, Dual row
+Change Component Description : Designator=J7 Old Description=Header, 12-Pin, Dual row New Description=Header, 4-Pin, Dual row

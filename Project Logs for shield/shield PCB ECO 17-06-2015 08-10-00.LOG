@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=CHRG Old DesignItemId=Diode 1N4001 New DesignItemId=LED1
+Change Component DesignItemId : Designator=RDY Old DesignItemId=Diode 1N4001 New DesignItemId=LED1
+Change Component Footprint: Designator=CHRG Old Footprint=DO-41 New Footprint=LED-1
+Change Component Footprint: Designator=RDY Old Footprint=DO-41 New Footprint=LED-1
+Change Component Comment : Designator=P1 Old Comment=DCjack New Comment=RAPC712X
+Change Component Comment : Designator=CHRG Old Comment=Diode 1N4001 New Comment=LED1
+Change Component Comment : Designator=RDY Old Comment=Diode 1N4001 New Comment=LED1
+Change Component Comment : Designator=U1 Old Comment=MCP7384x New Comment=MCP73844

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AVDD Pin=J1-2
+Added Pin To Net: NetName=DVDD Pin=J1-2

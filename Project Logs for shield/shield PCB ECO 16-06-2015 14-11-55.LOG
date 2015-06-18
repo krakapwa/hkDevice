@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=P1-V+
+Removed Pin From Net: NetName=AGND Pin=R14-1
+Removed Pin From Net: NetName=AGND Pin=U1-1
+Removed Pin From Net: NetName=Vin_batt Pin=U1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-4
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MCP7383x New DesignItemId=MCP7384x
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=DO-41
+Change Component Footprint: Designator=D2 Old Footprint=LED-1 New Footprint=DO-41
+Change Component Footprint: Designator=U1 Old Footprint=SOT23-5 New Footprint=MSOP-10
+Change Component Comment : Designator=U1 Old Comment=MCP7383 New Comment=MCP7384x
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=D2 NewDesignator=LED2
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=LED1(DO-41)
+Added Component: Designator=Q1(SOT-23_L)
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=Vin_batt Pin=Q1-3
+Added Pin To Net: NetName=NetC1_1 Pin=R13-1
+Added Pin To Net: NetName=NetC1_1 Pin=R14-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=Vin_batt Pin=U1-7
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetJ1_40
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetLED2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C2-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-5
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-V+
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=D1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U1-3
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R13-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-8
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-4
+Added Net: Name=NetR14_1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SPI1_SCLK Pin=J7-3
+Removed Pin From Net: NetName=SPI1_MISO Pin=J7-4
+Removed Pin From Net: NetName=SPI1_MOSI Pin=J7-5
+Removed Pin From Net: NetName=SPI1_CE1 Pin=J7-6
+Removed Pin From Net: NetName=NetJ7_7 Pin=J7-7
+Removed Pin From Net: NetName=5.0V Pin=J7-10
+Removed Pin From Net: NetName=GND Pin=J7-14
+Change Component Footprint: Designator=J7 Old Footprint=ftmh New Footprint=HDR2X4
+Added Pin To Net: NetName=SPI1_SCLK Pin=J7-1
+Added Pin To Net: NetName=SPI1_MISO Pin=J7-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=J7-3
+Added Pin To Net: NetName=SPI1_CE1 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_7 Pin=J7-5
+Added Pin To Net: NetName=5.0V Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-8
+Change Net Name : Old Net Name=NetJ7_7 New Net Name=NetJ7_5

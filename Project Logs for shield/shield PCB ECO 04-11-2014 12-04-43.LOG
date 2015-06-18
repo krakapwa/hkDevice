@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=A0_IRQ Pin=J1-16
+Added Net: Name=A0_IRQ
+Added Pin To Net: NetName=A1_IRQ Pin=J1-18
+Added Net: Name=A1_IRQ
+Added Pin To Net: NetName=A3_IRQ Pin=J1-22
+Added Net: Name=A3_IRQ

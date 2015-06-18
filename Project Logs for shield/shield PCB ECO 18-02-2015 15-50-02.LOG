@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Comment : Designator=u1 Old Comment=TL974IPWR New Comment=TL974N

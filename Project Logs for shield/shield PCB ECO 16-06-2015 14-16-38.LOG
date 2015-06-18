@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C2-1
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Change Component Designator: OldDesignator=D1 NewDesignator=CHRG
+Change Component Designator: OldDesignator=LED2 NewDesignator=RDY
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=D1(DO-41)
+Added Pin To Net: NetName=Vin_batt Pin=C2-1
+Added Pin To Net: NetName=NetC3_1 Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=CHRG-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetCHRG_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetR15_2

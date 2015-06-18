@@ -1,0 +1,19 @@
+﻿Field=Comment~String~Comment~125|Field=Description~String~Description~187|Field=Designator~String~Designator~110|Field=Footprint~String~Footprint~110|Field=LibRef~String~LibRef~110|Field=Quantity~Integer~Quantity~108|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~shield.PrjPcb|ReportField=ProjectFullPath~C:\Users\krakapwa\Desktop\LEJEUNE LAURENT\Altium\rpiShieldV3\shield.PrjPcb|ReportField=Title~Bill of Materials For Project [shield.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~13:08:30|ReportField=ReportDate~18/06/2015|ReportField=ReportDateTime~18/06/2015 13:08:30|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~18/06/2015|ReportField=CurrentTime~13:05:25|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\krakapwa\Desktop\LEJEUNE LAURENT\Altium\rpiShieldV3\sheet1.SchDoc|ReportField=DocumentName~sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~18/06/2015|ReportField=Organization~|ReportField=ProjectName~shield.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~shield.PrjPcb|ReportField=DataSourceFullPath~C:\Users\krakapwa\Desktop\LEJEUNE LAURENT\Altium\rpiShieldV3\shield.PrjPcb
+Battery|Multicell Battery|BT1|HDR1X2H|Battery|1
+Comment|Polarized Capacitor (Radial), Capacitor, Capacitor, Capacitor|C1, C2, C3, C4|CAPR5-4X5|Cap Pol1, Cap, Cap, Cap|4
+LED1|Typical RED GaAs LED|CHRG, RDY|LED-1|LED1|2
+1N5817|1 Amp General Purpose Rectifier|D1|DO-41|Diode 1N4001|1
+RPi header|Header, 20-Pin, Dual row|J1|HDR2X20|Header 20X2|1
+ADS1298 power|Header, 5-Pin, Dual row|J2|HDR2X5|Header 5X2|1
+ADS1298 main header|Header, 10-Pin, Dual row|J3|HDR2X10|Header 10X2|1
+ADS1298 dummy header|Header, 10-Pin, Dual row|J4|HDR2X10|Header 10X2|1
+SPI module 0|Header, 4-Pin, Dual row|J5|HDR1X8H|Header 4X2|1
+SPI module 1|Header, 4-Pin, Dual row|J6|HDR1X8H|Header 4X2|1
+SPI module 2|Header, 4-Pin, Dual row|J7|HDR1X8H|Header 4X2|1
+RAPC712X|Header, 3-Pin|P1|DCjack|DCjack|1
+IRLML2244TRPbF|power MOSFET p|Q1|SOT-23_L|IRLML2244TRPbF|1
+Comment|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R14, R15|AXIAL-0.6|Res2|14
+Comment|Resistor|R13|AXIAL-1.0|Rsense|1
+TSRN1-2450||RG1|TSRN1-2450|TSRN1-2450|1
+SW-SPST|Single-Pole, Single-Throw Switch|S1|HDR1X2H|SW-SPST|1
+MCP73844|Header, 4-Pin, Dual row|U1|MSOP-8|MCP7384x|1

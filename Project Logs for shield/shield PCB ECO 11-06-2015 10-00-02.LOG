@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SPI0_CE0 Pin=R2-1
+Removed Pin From Net: NetName=SPI0_CE1 Pin=R10-1
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R12 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R13 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Change Component Footprint: Designator=R14 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.6
+Added Pin To Net: NetName=NetJ1_36 Pin=J1-36
+Added Pin To Net: NetName=NetJ1_36 Pin=R2-1
+Added Net: Name=NetJ1_36
+Added Pin To Net: NetName=NetJ1_38 Pin=J1-38
+Added Pin To Net: NetName=NetJ1_38 Pin=R10-1
+Added Net: Name=NetJ1_38

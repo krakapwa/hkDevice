@@ -1,0 +1,6 @@
+Change Component Comment : Designator=D1 Old Comment= 1N5817  New Comment=1N5817
+Added Pin To Net: NetName=DVDD Pin=C4-1
+Added Pin To Net: NetName=DVDD Pin=J2-10
+Added Pin To Net: NetName=DVDD Pin=RG1-3
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Change Net Name : Old Net Name=DVDD New Net Name=VDD

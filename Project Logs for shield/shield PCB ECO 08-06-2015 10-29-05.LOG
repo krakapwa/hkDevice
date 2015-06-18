@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AVDD Pin=RG1-2
+Removed Pin From Net: NetName=AGND Pin=RG1-3
+Change Component Comment : Designator=RG1 Old Comment=TSRN 1-2450 (DC-DC) New Comment=TSRN1-2450
+Change Component Library : Designator=RG1 Old Library=libShield.IntLib New Library=shield.SCHLIB
+Added Pin To Net: NetName=AGND Pin=RG1-2
+Added Pin To Net: NetName=AVDD Pin=RG1-3

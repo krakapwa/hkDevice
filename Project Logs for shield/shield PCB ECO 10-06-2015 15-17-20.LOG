@@ -1,0 +1,4 @@
+Added Component: Designator=P1(DCjack)
+Added Pin To Net: NetName=AGND Pin=P1-GND1
+Added Pin To Net: NetName=AGND Pin=P1-GND2
+Added Pin To Net: NetName=NetC1_1 Pin=P1-V+

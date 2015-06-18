@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAPR5-4X5 New Footprint=1206_C
+Change Component Footprint: Designator=C3 Old Footprint=CAPR5-4X5 New Footprint=1206_C
+Added Pin To Net: NetName=OUTAMPC3 Pin=J12-2
+Added Pin To Net: NetName=OUTAMPC3 Pin=R7-2
+Added Pin To Net: NetName=OUTAMPC3 Pin=u2-8

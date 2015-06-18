@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=A0_IRQ Pin=a0-7
+Added Pin To Net: NetName=A1_IRQ Pin=a1-7
+Added Pin To Net: NetName=Neta2_7 Pin=a2-7
+Added Net: Name=Neta2_7

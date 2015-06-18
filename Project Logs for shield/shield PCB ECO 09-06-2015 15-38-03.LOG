@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=AVDD Pin=R1-2
+Removed Pin From Net: NetName=AGND Pin=R2-1
+Removed Pin From Net: NetName=a3outX Pin=R4-2
+Removed Pin From Net: NetName=a3outY Pin=R6-2
+Removed Pin From Net: NetName=a3outZ Pin=R8-2
+Removed Pin From Net: NetName=a4outX Pin=R10-2
+Removed Pin From Net: NetName=a4outZ Pin=R12-2
+Removed Pin From Net: NetName=a4outY Pin=R14-2
+Removed Pin From Net: NetName=AVDD Pin=u1-4
+Removed Pin From Net: NetName=AGND Pin=u1-11
+Removed Pin From Net: NetName=AVDD Pin=u2-4
+Removed Pin From Net: NetName=AGND Pin=u2-11
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Net: Name=NetJ11_2
+Added Pin To Net: NetName=NetJ12_2 Pin=J12-2
+Added Net: Name=NetJ12_2
+Added Pin To Net: NetName=NetJ13_2 Pin=J13-2
+Added Net: Name=NetJ13_2
+Added Pin To Net: NetName=NetJ14_2 Pin=J14-2
+Added Net: Name=NetJ14_2
+Added Pin To Net: NetName=NetJ15_2 Pin=J15-2
+Added Net: Name=NetJ15_2

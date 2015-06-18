@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=R13-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R13-2
+Change Component DesignItemId : Designator=R13 Old DesignItemId=Res2 New DesignItemId=Rsense
+Change Component Footprint: Designator=R13 Old Footprint=AXIAL-0.6 New Footprint=AXIAL-1.0
+Change Component Comment : Designator=D1 Old Comment=Diode 1N4001 New Comment= 1N5817 
+Added Pin To Net: NetName=NetQ1_1 Pin=R13-1
+Added Pin To Net: NetName=NetC1_1 Pin=R13-2
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=VIN_BATT

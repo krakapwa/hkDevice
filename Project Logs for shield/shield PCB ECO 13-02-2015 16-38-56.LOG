@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=RG1-2
+Removed Pin From Net: NetName=5.0V Pin=RG1-3
+Change Component DesignItemId : Designator=RG1 Old DesignItemId=Volt Reg New DesignItemId=TSRN1-2450
+Change Component Description : Designator=RG1 Old Description=Voltage Regulator New Description=
+Change Component Library : Designator=RG1 Old Library=Miscellaneous Devices.IntLib New Library=libShield.IntLib
+Added Pin To Net: NetName=5.0V Pin=RG1-2
+Added Pin To Net: NetName=GND Pin=RG1-3
