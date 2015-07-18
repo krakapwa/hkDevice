@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=a3outZ Pin=R6-2
-Change Component Footprint: Designator=C2 Old Footprint=CAPR5-4X5 New Footprint=1206_C
-Change Component Footprint: Designator=C3 Old Footprint=CAPR5-4X5 New Footprint=1206_C
-Added Pin To Net: NetName=a3outY Pin=R6-2
-Change Net Name : Old Net Name=NetR1_1 New Net Name=OUTAMPC3
-Change Net Name : Old Net Name=OUTampC3 New Net Name=NetJ12_2

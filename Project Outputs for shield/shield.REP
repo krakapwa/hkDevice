@@ -3,7 +3,7 @@ FileName = shield.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top
-      File : shield.GTL
+      File : shield_Copper_Signal_Top.gbr
 
     Adding Layer      : Top
 
@@ -25,11 +25,71 @@ Used DCodes :
     D21
     D22
     D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : AGND
+      File : shield_Copper_Plane_1.gbr
+
+    Adding Layer      : AGND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : shield_Copper_Plane_2.gbr
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D32
+    D33
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
 *************************************************************
 
 *************************************************************
 Generating : Bottom
-      File : shield.GBL
+      File : shield_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom
 
@@ -38,8 +98,9 @@ Generating : Bottom
 
 Used DCodes :
     D12
+    D13
+    D14
     D15
-    D16
     D17
     D18
     D19
@@ -47,26 +108,177 @@ Used DCodes :
     D21
     D22
     D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : shield_Pads_Bot.gbr
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : shield_Pads_Top.gbr
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : shield.GTO
+      File : shield_Legend_Top.gbr
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D12
-    D14
-    D24
-    D25
-    D26
+    D16
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : shield_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : shield_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : shield_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D16
+    D47
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : shield_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : shield.GTP
+      File : shield_Paste_Top.gbr
 
     Adding Layer      : Top Paste
 
@@ -81,77 +293,162 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : shield.GTS
+Generating : Keep-Out Layer
+      File : shield_Keep-out.gbr
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : shield.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : shield.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : shield.GBO
+Generating : tValues
+      File : shield_Mechanical_4.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : tValues
 
 
 Used DCodes :
-    D14
-    D24
-    D38
+*************************************************************
+
+*************************************************************
+Generating : Document
+      File : shield_Mechanical_13.gbr
+
+    Adding Layer      : Document
+
+
+Used DCodes :
+    D71
+*************************************************************
+
+*************************************************************
+Generating : dxf
+      File : shield_Mechanical_15.gbr
+
+    Adding Layer      : dxf
+
+
+Used DCodes :
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : shield_Mechanical_1.gbr
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : tNames
+      File : shield_Mechanical_2.gbr
+
+    Adding Layer      : tNames
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Reference
+      File : shield_Mechanical_14.gbr
+
+    Adding Layer      : Reference
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Measures
+      File : shield_Mechanical_12.gbr
+
+    Adding Layer      : Measures
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : tDocu
+      File : shield_Mechanical_16.gbr
+
+    Adding Layer      : tDocu
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : shield_Profile.gbr
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : shield_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : shield_PTH_Drill.gbr
+
+
+Used DCodes :
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : shield_Drawing_1.gbr
+
+    Adding Drill Pair : Bottom-Top
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D68
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : shield_Drillmap_1.gbr
+
+    Adding Drill Pair : Bottom-Top
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D68
 *************************************************************
 

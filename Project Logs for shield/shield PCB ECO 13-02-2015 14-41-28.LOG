@@ -1,4 +1,0 @@
-Change Component DesignItemId : Designator=u1 Old DesignItemId=Header 8X2 New DesignItemId=Header 7X2
-Change Component DesignItemId : Designator=u2 Old DesignItemId=Header 8X2 New DesignItemId=Header 7X2
-Change Component Footprint: Designator=u1 Old Footprint=TSSOP-14 New Footprint=HDR2X7
-Change Component Footprint: Designator=u2 Old Footprint=TSSOP-14 New Footprint=HDR2X7

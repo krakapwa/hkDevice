@@ -1,2 +1,0 @@
-Change Component Designator: OldDesignator=P? NewDesignator=P1
-Change Component Library : Designator=P1 Old Library=libShield.IntLib New Library=shield.SCHLIB

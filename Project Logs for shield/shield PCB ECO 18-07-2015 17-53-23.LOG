@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VIN_BATT Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_3 Pin=R13-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=U1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=U1-8
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-1
+Added Pin To Net: NetName=VIN_BATT Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_2 Pin=R13-1
+Added Pin To Net: NetName=NetQ1_2 Pin=U1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-8
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ1_1
